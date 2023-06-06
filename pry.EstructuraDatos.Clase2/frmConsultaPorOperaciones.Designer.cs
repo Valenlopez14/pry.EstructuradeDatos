@@ -48,17 +48,18 @@
             "Proyección Simple",
             "Proyección Multiatributo",
             "Selección Multiatributo con operador AND",
+            "Selección Multiatributo con operador OR",
             "Selección Multiatributo por convolución",
             "Selección Simple",
             "Unión"});
             this.cbOperaciones.Location = new System.Drawing.Point(229, 16);
             this.cbOperaciones.Name = "cbOperaciones";
-            this.cbOperaciones.Size = new System.Drawing.Size(407, 21);
+            this.cbOperaciones.Size = new System.Drawing.Size(628, 21);
             this.cbOperaciones.TabIndex = 0;
             // 
             // btnListar
             // 
-            this.btnListar.Location = new System.Drawing.Point(659, 14);
+            this.btnListar.Location = new System.Drawing.Point(884, 16);
             this.btnListar.Name = "btnListar";
             this.btnListar.Size = new System.Drawing.Size(106, 23);
             this.btnListar.TabIndex = 1;
@@ -81,7 +82,7 @@
             this.label2.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.label2.Location = new System.Drawing.Point(16, 52);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(749, 98);
+            this.label2.Size = new System.Drawing.Size(1080, 98);
             this.label2.TabIndex = 3;
             // 
             // dgvGrilla
@@ -89,7 +90,7 @@
             this.dgvGrilla.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvGrilla.Location = new System.Drawing.Point(16, 164);
             this.dgvGrilla.Name = "dgvGrilla";
-            this.dgvGrilla.Size = new System.Drawing.Size(749, 274);
+            this.dgvGrilla.Size = new System.Drawing.Size(1080, 274);
             this.dgvGrilla.TabIndex = 4;
             // 
             // lblMuestra
@@ -105,7 +106,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(786, 450);
+            this.ClientSize = new System.Drawing.Size(1144, 450);
             this.Controls.Add(this.lblMuestra);
             this.Controls.Add(this.dgvGrilla);
             this.Controls.Add(this.label2);

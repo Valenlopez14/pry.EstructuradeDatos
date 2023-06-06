@@ -196,3 +196,23 @@ C:\Users\valen\source\repos\Proyecto-Estructura-de-Datos\Nueva carpeta (8)\pry.E
 C:\Users\valen\source\repos\Proyecto-Estructura-de-Datos\Nueva carpeta (8)\pry.EstructuraDatos.Clase2\obj\Debug\pry.EstructuraDatos.Clase2.csproj.CoreCompileInputs.cache
 C:\Users\valen\source\repos\Proyecto-Estructura-de-Datos\Nueva carpeta (8)\pry.EstructuraDatos.Clase2\obj\Debug\pry.EstructuraDatos.Clase2.exe
 C:\Users\valen\source\repos\Proyecto-Estructura-de-Datos\Nueva carpeta (8)\pry.EstructuraDatos.Clase2\obj\Debug\pry.EstructuraDatos.Clase2.pdb
+C:\Users\valen\Source\Repos\pry.EstructuradeDatos\pry.EstructuraDatos.Clase2\bin\Debug\pry.EstructuraDatos.Clase2.exe.config
+C:\Users\valen\Source\Repos\pry.EstructuradeDatos\pry.EstructuraDatos.Clase2\bin\Debug\pry.EstructuraDatos.Clase2.exe
+C:\Users\valen\Source\Repos\pry.EstructuradeDatos\pry.EstructuraDatos.Clase2\bin\Debug\pry.EstructuraDatos.Clase2.pdb
+C:\Users\valen\Source\Repos\pry.EstructuradeDatos\pry.EstructuraDatos.Clase2\obj\Debug\pry.EstructuraDatos.Clase2.csproj.AssemblyReference.cache
+C:\Users\valen\Source\Repos\pry.EstructuradeDatos\pry.EstructuraDatos.Clase2\obj\Debug\pry.EstructuraDatos.Clase2.csproj.SuggestedBindingRedirects.cache
+C:\Users\valen\Source\Repos\pry.EstructuradeDatos\pry.EstructuraDatos.Clase2\obj\Debug\pry.EstructuraDatos.Clase2.frmArbolBinario.resources
+C:\Users\valen\Source\Repos\pry.EstructuradeDatos\pry.EstructuraDatos.Clase2\obj\Debug\pry.EstructuraDatos.Clase2.frmBaseDeDatos.resources
+C:\Users\valen\Source\Repos\pry.EstructuradeDatos\pry.EstructuraDatos.Clase2\obj\Debug\pry.EstructuraDatos.Clase2.frmConsultaPorOperaciones.resources
+C:\Users\valen\Source\Repos\pry.EstructuradeDatos\pry.EstructuraDatos.Clase2\obj\Debug\pry.EstructuraDatos.Clase2.frmConsultasBD.resources
+C:\Users\valen\Source\Repos\pry.EstructuradeDatos\pry.EstructuraDatos.Clase2\obj\Debug\pry.EstructuraDatos.Clase2.frmListaDoblementeEnlazada.resources
+C:\Users\valen\Source\Repos\pry.EstructuradeDatos\pry.EstructuraDatos.Clase2\obj\Debug\pry.EstructuraDatos.Clase2.frmListaSimple.resources
+C:\Users\valen\Source\Repos\pry.EstructuradeDatos\pry.EstructuraDatos.Clase2\obj\Debug\pry.EstructuraDatos.Clase2.frmEstructura.resources
+C:\Users\valen\Source\Repos\pry.EstructuradeDatos\pry.EstructuraDatos.Clase2\obj\Debug\pry.EstructuraDatos.Clase2.frmPila.resources
+C:\Users\valen\Source\Repos\pry.EstructuradeDatos\pry.EstructuraDatos.Clase2\obj\Debug\pry.EstructuraDatos.Clase2.frmDatosProgramador.resources
+C:\Users\valen\Source\Repos\pry.EstructuradeDatos\pry.EstructuraDatos.Clase2\obj\Debug\pry.EstructuraDatos.Clase2.frmEstructuraDinamicaLineal.resources
+C:\Users\valen\Source\Repos\pry.EstructuradeDatos\pry.EstructuraDatos.Clase2\obj\Debug\pry.EstructuraDatos.Clase2.Properties.Resources.resources
+C:\Users\valen\Source\Repos\pry.EstructuradeDatos\pry.EstructuraDatos.Clase2\obj\Debug\pry.EstructuraDatos.Clase2.csproj.GenerateResource.cache
+C:\Users\valen\Source\Repos\pry.EstructuradeDatos\pry.EstructuraDatos.Clase2\obj\Debug\pry.EstructuraDatos.Clase2.csproj.CoreCompileInputs.cache
+C:\Users\valen\Source\Repos\pry.EstructuradeDatos\pry.EstructuraDatos.Clase2\obj\Debug\pry.EstructuraDatos.Clase2.exe
+C:\Users\valen\Source\Repos\pry.EstructuradeDatos\pry.EstructuraDatos.Clase2\obj\Debug\pry.EstructuraDatos.Clase2.pdb
