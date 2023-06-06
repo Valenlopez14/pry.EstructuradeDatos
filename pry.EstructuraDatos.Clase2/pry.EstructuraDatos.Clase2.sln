@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pry.EstructuraDatos.Clase2", "pry.EstructuraDatos.Clase2.csproj", "{54ED79DF-93FE-48A7-85BA-07F00402CBAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54ED79DF-93FE-48A7-85BA-07F00402CBAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54ED79DF-93FE-48A7-85BA-07F00402CBAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54ED79DF-93FE-48A7-85BA-07F00402CBAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54ED79DF-93FE-48A7-85BA-07F00402CBAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B37416CA-170B-45DF-B318-60B47033F63C}
+	EndGlobalSection
+EndGlobal
